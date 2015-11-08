@@ -1,9 +1,7 @@
-reactive-publish
-=====================
+# Reactive Publish
+Reactive Publish enables server-side reactivity for Meteor.publish.
 
-Enable server-side reactivity for Meteor.publish
-Depends on package "server-deps"
-
+## How To
 Replace calls to "Meteor.publish" with "Meteor.reactivePublish" and
 your publish function will be re-run whenever any of its dependencies
 change.
