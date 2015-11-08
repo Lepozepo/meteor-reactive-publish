@@ -11,7 +11,7 @@ Package.on_use(function(api) {
 		'coffeescript',
 		'tracker',
 		'underscore',
-		'edgee:meteor-server-deps@0.1.2',
+		'peerlibrary:server-autorun',
 		'accounts-base'
 	], 'server');
 
