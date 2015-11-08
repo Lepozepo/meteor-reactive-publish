@@ -1,0 +1,41 @@
+{
+  "format": "isopack-2-unibuild",
+  "declaredExports": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "coffeescript",
+      "constraint": "1.0.4"
+    },
+    {
+      "package": "tracker",
+      "constraint": "1.0.3"
+    },
+    {
+      "package": "meteor-base",
+      "constraint": "1.0.1"
+    },
+    {
+      "package": "peerlibrary:server-autorun",
+      "constraint": "0.2.2"
+    },
+    {
+      "package": "accounts-base",
+      "constraint": "1.1.2"
+    }
+  ],
+  "resources": [
+    {
+      "type": "source",
+      "extension": "coffee",
+      "file": "os/lib/reactive-publish.coffee",
+      "length": 2884,
+      "offset": 0,
+      "path": "lib/reactive-publish.coffee",
+      "hash": "be5971c8aaaaf19c12eb4a72a672684fd91b414b",
+      "fileOptions": {}
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "builtBy": "meteor/17",
+  "unibuildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/Air/Documents/Programming/custom_packages/meteor-reactive-publish/examples/basic/packages/meteor-reactive-publish/package.js": "9853304c3211ba9c981a7a3cd380a16d0ed90a4d",
+        "/Users/Air/Documents/Programming/custom_packages/meteor-reactive-publish/examples/basic/packages/meteor-reactive-publish/lib/reactive-publish.coffee": "be5971c8aaaaf19c12eb4a72a672684fd91b414b"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/Air/Documents/Programming/custom_packages/meteor-reactive-publish/examples/basic/packages/meteor-reactive-publish/package.js": "9853304c3211ba9c981a7a3cd380a16d0ed90a4d"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/Air/Documents/Programming/custom_packages/meteor-reactive-publish/examples/basic/packages/meteor-reactive-publish/package.js": "9853304c3211ba9c981a7a3cd380a16d0ed90a4d"
+    },
+    "directories": []
+  },
+  "pluginProviderPackageMap": {
+    "lepozepo:reactive-publish": {
+      "kind": "local",
+      "sourceRoot": "/Users/Air/Documents/Programming/custom_packages/meteor-reactive-publish/examples/basic/packages/meteor-reactive-publish"
+    },
+    "meteor": {
+      "kind": "versioned",
+      "version": "1.1.10"
+    },
+    "coffeescript": {
+      "kind": "versioned",
+      "version": "1.0.11"
+    },
+    "tracker": {
+      "kind": "versioned",
+      "version": "1.0.9"
+    },
+    "meteor-base": {
+      "kind": "versioned",
+      "version": "1.0.1"
+    },
+    "peerlibrary:server-autorun": {
+      "kind": "versioned",
+      "version": "0.2.6"
+    },
+    "accounts-base": {
+      "kind": "versioned",
+      "version": "1.2.2"
+    },
+    "webapp": {
+      "kind": "versioned",
+      "version": "1.2.3"
+    },
+    "underscore": {
+      "kind": "versioned",
+      "version": "1.0.4"
+    },
+    "ddp": {
+      "kind": "versioned",
+      "version": "1.2.2"
+    },
+    "livedata": {
+      "kind": "versioned",
+      "version": "1.0.15"
+    },
+    "hot-code-push": {
+      "kind": "versioned",
+      "version": "1.0.0"
+    },
+    "ddp-client": {
+      "kind": "versioned",
+      "version": "1.2.1"
+    },
+    "ddp-server": {
+      "kind": "versioned",
+      "version": "1.2.2"
+    },
+    "autoupdate": {
+      "kind": "versioned",
+      "version": "1.2.4"
+    },
+    "reload": {
+      "kind": "versioned",
+      "version": "1.1.4"
+    }
+  },
+  "includeCordovaUnibuild": false
+}

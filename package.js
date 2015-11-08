@@ -1,7 +1,7 @@
 Package.describe({
 	name:"lepozepo:reactive-publish",
 	summary: "Enable server-side reactivity for Meteor.publish",
-	version:"0.1.7",
+	version:"0.1.8",
 	git: "https://github.com/Lepozepo/meteor-reactive-publish"
 });
 
