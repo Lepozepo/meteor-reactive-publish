@@ -1,3 +1,9 @@
+## This fork is deprecated
+You can replace the functionality of this package with
+
+- [peerlibrary:reactive-publish](https://github.com/peerlibrary/meteor-reactive-publish)
+- [peerlibrary:subscription-data](https://github.com/peerlibrary/meteor-subscription-data)
+
 # Reactive Publish
 Reactive Publish enables server-side reactivity for Meteor.publish.
 
